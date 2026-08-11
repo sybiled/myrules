@@ -1,0 +1,15 @@
+# Name = Emby
+# Author = sybiled
+# REPO = https://github.com/sybiled/myrules
+# Update = 2026-08-11 01:07:25
+# Total = 9
+
+DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,emby.hohai.eu.org
+DOMAIN-SUFFIX,115.hohai.eu.org
+DOMAIN-SUFFIX,aman.2300746.xyz
+DOMAIN-SUFFIX,sub.411414.xyz
+DOMAIN-SUFFIX,emosstore.sbs
+DOMAIN-SUFFIX,emos.best
+DOMAIN-SUFFIX,komari2.wagml.ggff.net
+DOMAIN-SUFFIX,emby.yxmm.xyz
